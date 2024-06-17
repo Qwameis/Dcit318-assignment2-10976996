@@ -1,0 +1,15 @@
+/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Inheritance_overriding/bin/Debug/net8.0/Inheritance_overriding
+/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Inheritance_overriding/bin/Debug/net8.0/Inheritance_overriding.deps.json
+/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Inheritance_overriding/bin/Debug/net8.0/Inheritance_overriding.runtimeconfig.json
+/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Inheritance_overriding/bin/Debug/net8.0/Inheritance_overriding.dll
+/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Inheritance_overriding/bin/Debug/net8.0/Inheritance_overriding.pdb
+/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Inheritance_overriding/obj/Debug/net8.0/Inheritance_overriding.GeneratedMSBuildEditorConfig.editorconfig
+/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Inheritance_overriding/obj/Debug/net8.0/Inheritance_overriding.AssemblyInfoInputs.cache
+/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Inheritance_overriding/obj/Debug/net8.0/Inheritance_overriding.AssemblyInfo.cs
+/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Inheritance_overriding/obj/Debug/net8.0/Inheritance_overriding.csproj.CoreCompileInputs.cache
+/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Inheritance_overriding/obj/Debug/net8.0/Inheritance_overriding.sourcelink.json
+/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Inheritance_overriding/obj/Debug/net8.0/Inheritance_overriding.dll
+/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Inheritance_overriding/obj/Debug/net8.0/refint/Inheritance_overriding.dll
+/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Inheritance_overriding/obj/Debug/net8.0/Inheritance_overriding.pdb
+/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Inheritance_overriding/obj/Debug/net8.0/Inheritance_overriding.genruntimeconfig.cache
+/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Inheritance_overriding/obj/Debug/net8.0/ref/Inheritance_overriding.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Dcit318-assignment2-10976996/Dcit318-assignment2-10976996.csproj",
-      "projectName": "Dcit318-assignment2-10976996",
-      "projectPath": "/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Dcit318-assignment2-10976996/Dcit318-assignment2-10976996.csproj",
+      "projectUniqueName": "/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Inheritance_overriding/Inheritance_overriding.csproj",
+      "projectName": "Inheritance_overriding",
+      "projectPath": "/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Inheritance_overriding/Inheritance_overriding.csproj",
       "packagesPath": "/home/clifford/.nuget/packages/",
-      "outputPath": "/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Dcit318-assignment2-10976996/obj/",
+      "outputPath": "/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Inheritance_overriding/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/clifford/.nuget/NuGet/NuGet.Config"
