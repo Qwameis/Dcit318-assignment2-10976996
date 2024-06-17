@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance_overriding", "I
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract_class_and_method-shape", "Abstract_class_and_method-shape\Abstract_class_and_method-shape.csproj", "{A7CBCA98-260F-4C62-B9ED-434D9052F03B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces-IMovable", "Interfaces-IMovable\Interfaces-IMovable.csproj", "{97D74C04-5D45-467F-9900-7D91552C2939}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{A7CBCA98-260F-4C62-B9ED-434D9052F03B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7CBCA98-260F-4C62-B9ED-434D9052F03B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7CBCA98-260F-4C62-B9ED-434D9052F03B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97D74C04-5D45-467F-9900-7D91552C2939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97D74C04-5D45-467F-9900-7D91552C2939}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97D74C04-5D45-467F-9900-7D91552C2939}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97D74C04-5D45-467F-9900-7D91552C2939}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

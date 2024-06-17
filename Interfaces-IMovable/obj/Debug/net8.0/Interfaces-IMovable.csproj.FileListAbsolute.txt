@@ -1,0 +1,15 @@
+/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Interfaces-IMovable/bin/Debug/net8.0/Interfaces-IMovable
+/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Interfaces-IMovable/bin/Debug/net8.0/Interfaces-IMovable.deps.json
+/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Interfaces-IMovable/bin/Debug/net8.0/Interfaces-IMovable.runtimeconfig.json
+/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Interfaces-IMovable/bin/Debug/net8.0/Interfaces-IMovable.dll
+/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Interfaces-IMovable/bin/Debug/net8.0/Interfaces-IMovable.pdb
+/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Interfaces-IMovable/obj/Debug/net8.0/Interfaces-IMovable.GeneratedMSBuildEditorConfig.editorconfig
+/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Interfaces-IMovable/obj/Debug/net8.0/Interfaces-IMovable.AssemblyInfoInputs.cache
+/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Interfaces-IMovable/obj/Debug/net8.0/Interfaces-IMovable.AssemblyInfo.cs
+/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Interfaces-IMovable/obj/Debug/net8.0/Interfaces-IMovable.csproj.CoreCompileInputs.cache
+/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Interfaces-IMovable/obj/Debug/net8.0/Interfaces-IMovable.sourcelink.json
+/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Interfaces-IMovable/obj/Debug/net8.0/Interfaces-IMovable.dll
+/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Interfaces-IMovable/obj/Debug/net8.0/refint/Interfaces-IMovable.dll
+/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Interfaces-IMovable/obj/Debug/net8.0/Interfaces-IMovable.pdb
+/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Interfaces-IMovable/obj/Debug/net8.0/Interfaces-IMovable.genruntimeconfig.cache
+/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Interfaces-IMovable/obj/Debug/net8.0/ref/Interfaces-IMovable.dll
