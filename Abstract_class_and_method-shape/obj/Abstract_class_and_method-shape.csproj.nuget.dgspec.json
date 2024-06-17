@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Abstract_class_and_method-shape/Abstract_class_and_method-shape.csproj": {}
+  },
+  "projects": {
+    "/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Abstract_class_and_method-shape/Abstract_class_and_method-shape.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Abstract_class_and_method-shape/Abstract_class_and_method-shape.csproj",
+        "projectName": "Abstract_class_and_method-shape",
+        "projectPath": "/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Abstract_class_and_method-shape/Abstract_class_and_method-shape.csproj",
+        "packagesPath": "/home/clifford/.nuget/packages/",
+        "outputPath": "/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Abstract_class_and_method-shape/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/clifford/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/clifford/.dotnet/sdk/8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

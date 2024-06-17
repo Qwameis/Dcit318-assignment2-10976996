@@ -1,0 +1,15 @@
+/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Abstract_class_and_method-shape/bin/Debug/net8.0/Abstract_class_and_method-shape
+/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Abstract_class_and_method-shape/bin/Debug/net8.0/Abstract_class_and_method-shape.deps.json
+/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Abstract_class_and_method-shape/bin/Debug/net8.0/Abstract_class_and_method-shape.runtimeconfig.json
+/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Abstract_class_and_method-shape/bin/Debug/net8.0/Abstract_class_and_method-shape.dll
+/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Abstract_class_and_method-shape/bin/Debug/net8.0/Abstract_class_and_method-shape.pdb
+/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Abstract_class_and_method-shape/obj/Debug/net8.0/Abstract_class_and_method-shape.GeneratedMSBuildEditorConfig.editorconfig
+/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Abstract_class_and_method-shape/obj/Debug/net8.0/Abstract_class_and_method-shape.AssemblyInfoInputs.cache
+/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Abstract_class_and_method-shape/obj/Debug/net8.0/Abstract_class_and_method-shape.AssemblyInfo.cs
+/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Abstract_class_and_method-shape/obj/Debug/net8.0/Abstract_class_and_method-shape.csproj.CoreCompileInputs.cache
+/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Abstract_class_and_method-shape/obj/Debug/net8.0/Abstract_class_and_method-shape.sourcelink.json
+/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Abstract_class_and_method-shape/obj/Debug/net8.0/Abstract_class_and_method-shape.dll
+/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Abstract_class_and_method-shape/obj/Debug/net8.0/refint/Abstract_class_and_method-shape.dll
+/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Abstract_class_and_method-shape/obj/Debug/net8.0/Abstract_class_and_method-shape.pdb
+/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Abstract_class_and_method-shape/obj/Debug/net8.0/Abstract_class_and_method-shape.genruntimeconfig.cache
+/home/clifford/RiderProjects/Dcit318-assignment2-10976996/Abstract_class_and_method-shape/obj/Debug/net8.0/ref/Abstract_class_and_method-shape.dll
